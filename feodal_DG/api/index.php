@@ -21,7 +21,7 @@ function router($params) {
             case 'castleLevelUp': return $app->castleLevelUp($params);
             case 'getScene': return $app->getScene($params);
             case 'command': return $app->command($params);
-
+            case 'hopa': return $app->command($params);
         }
     }
     return false;
