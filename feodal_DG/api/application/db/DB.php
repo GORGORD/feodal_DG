@@ -81,7 +81,7 @@
             return $this->getArray($query);
         }
         public function proverka($q){
-            return 2;
+            return 23453453663;
         }
 
         private function getArray($query) {
@@ -94,7 +94,7 @@
                 return $result;
             }
         }
-        p
+        
     }
 
 
